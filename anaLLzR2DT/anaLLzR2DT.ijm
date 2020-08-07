@@ -23,7 +23,7 @@
 	//	################################### SETUP ####################################
 	//cleanup();
 // Start up / get Screen parameters to set location of Dialog Boxes
-	version = "1";
+	version = "1.0";
 	header = "anaLLzR2DT";
 	getDateAndTime(year, month, dayOfWeek, dayOfMonth, hour, minute, second, msec);
 	print("started: "+ hour + ":" + minute);
